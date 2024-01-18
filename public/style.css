@@ -1,0 +1,30 @@
+#c {
+     color: white;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: lightslategray;
+}
+
+#product-container {
+    width: 80%;
+    margin-top: 20px;
+}
+
+.product {
+    background-color: white;
+    border: 1px solid lightgray;
+    padding: 10px;
+    margin-bottom: 10px;
+}
+
+.price {
+    font-size: 16px;
+    color: black;
+}

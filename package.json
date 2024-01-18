@@ -1,0 +1,13 @@
+{
+    "name": "product-display-app",
+    "version": "1.0.0",
+    "description": "A Node.js app to display products sorted by popularity",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2",
+        "node-fetch": "^2.7.0"
+    }
+}
